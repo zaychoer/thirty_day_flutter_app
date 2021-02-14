@@ -1,7 +1,12 @@
 # thirty_days_of_flutter
 
-A new Flutter project.
+30 Days of Flutter
 
+Live web flutter
+
+https://thirty-day-flutter-app.herokuapp.com/
+
+Link How to Deploy to Heroku https://morioh.com/p/6980486cec4e
 ## Getting Started
 
 This project is a starting point for a Flutter application.
